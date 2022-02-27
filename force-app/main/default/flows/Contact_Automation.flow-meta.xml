@@ -47,7 +47,7 @@
     <recordCreates>
         <name>Create_Timeline_Event_Message</name>
         <label>Create Timeline Event Message</label>
-        <locationX>264</locationX>
+        <locationX>308</locationX>
         <locationY>455</locationY>
         <inputAssignments>
             <field>Event_Object_Id__c</field>
@@ -58,7 +58,7 @@
         <inputAssignments>
             <field>Timeline_Event_Type__c</field>
             <value>
-                <stringValue>Contact Updated</stringValue>
+                <stringValue>Contact_Updated</stringValue>
             </value>
         </inputAssignments>
         <object>Timeline_Event_Message__e</object>
